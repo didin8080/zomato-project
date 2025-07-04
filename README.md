@@ -305,7 +305,7 @@ We will install Grafana, Prometheus, Node Exporter in the above instance and the
 **Step 2: Update the packages**
 
 ```bash
-sudo apt-get udate
+sudo apt-get update
 ```
 
 
@@ -552,9 +552,9 @@ To visualize metrics, you need to add a data source. Follow these steps:
   - Set the "URL" to `http://localhost:9090` (assuming Prometheus is running on the same server).
   - Click the "Save & Test" button to ensure the data source is working.
 
-  **Step 8: Import a Dashboard:**
+**Step 8: Import a Dashboard:**
 
-  To make it easier to view metrics, you can import a pre-configured dashboard. Follow these steps:
+To make it easier to view metrics, you can import a pre-configured dashboard. Follow these steps:
 
 - Click on the "+" (plus) icon in the left sidebar to open the "Create" menu.
 
