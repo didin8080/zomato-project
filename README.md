@@ -287,7 +287,7 @@ Goto jenkins dashboard → select pipeline → scrolldown select pipeline Syntax
 
 
 <div align="center">
-<img src="img/homepage.png" alt="Logo" height="300%" weight="100%">
+<img src="img/homepage.png" alt="Logo" height="400%" weight="100%">
 </div>
 
 **Application deployed in docker**
@@ -736,6 +736,6 @@ Open the port number 30001
 **You can access the application.**
 
 <div align="center">
-<img src="img/zomato.png" alto="Logo" height="100%" width="100%">
+<img src="img/zomato.png" alto="Logo" height="400%" width="100%">
 <p align="center">Zomato page </p>
 </div>
