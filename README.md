@@ -99,7 +99,7 @@ docker ps #You can see SonarQube container
 ```
 Open Port No. 9000 for VM and access SonarQube. (by default username & password is admin)
 
-`publicIp:8080`
+`publicIp:9000`
 
 **step 10: Install necessary plugins on Jenkins**
 
